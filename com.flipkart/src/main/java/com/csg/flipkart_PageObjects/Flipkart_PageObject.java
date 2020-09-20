@@ -53,6 +53,6 @@ public class Flipkart_PageObject extends BaseTest {
         @Test
         public static void enterMobileNumber(){
             enter_mobile_number.clear();
-            enter_mobile_number.sendKeys("9112142974");
+            enter_mobile_number.sendKeys("<number>");
         }
 }
