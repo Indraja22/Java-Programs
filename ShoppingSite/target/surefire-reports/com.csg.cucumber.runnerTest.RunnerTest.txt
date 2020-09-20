@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: com.csg.cucumber.runnerTest.RunnerTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 14.53 sec <<< FAILURE!
+runScenario(com.csg.cucumber.runnerTest.RunnerTest)  Time elapsed: 13.635 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at com.csg.cucumber.generics.LaunchingURL.launchUrl(LaunchingURL.java:17)
+	at com.csg.cucumber.stepDefinition.CreateNewAccount_StepDef.user_has_launched_amazon(CreateNewAccount_StepDef.java:18)
+	at ✽.User has launched Amazon(file:///C:/Users/Indraja/IdeaProjects/ShoppingSite/src/test/resources/cucumber/Test.feature:4)
+

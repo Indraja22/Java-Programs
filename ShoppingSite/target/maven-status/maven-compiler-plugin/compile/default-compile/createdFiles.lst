@@ -1,0 +1,5 @@
+com\csg\cucumber\generics\ConfigFileRead.class
+com\csg\cucumber\generics\LaunchDriver.class
+com\csg\cucumber\pageObjects\NewAccountXpaths.class
+com\csg\cucumber\generics\LaunchingURL.class
+com\csg\cucumber\Pages\CreateNewAccount.class

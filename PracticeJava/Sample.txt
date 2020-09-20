@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><breakfast_menu> <food>     <name>China Waffles</name>     <price>$5.95</price>     <description>    Two of our famous Belgian Waffles with plenty of real maple syrup    </description> <avaliableFrom>2020301409301041</avaliableFrom>     <calories>665</calories> </food> </breakfast_menu>
