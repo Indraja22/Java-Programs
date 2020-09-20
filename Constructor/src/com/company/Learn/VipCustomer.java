@@ -8,6 +8,7 @@ public class VipCustomer {
 
     //
     public VipCustomer() {
+
         this("Default Name", "default@gmail.com", 2000);
     }
 
@@ -16,6 +17,7 @@ public class VipCustomer {
         this(name, "Indraja@gmail.com", creditLimit);
 
     }
+
     //Should save all the fields
     public VipCustomer(String name, String email, double creditLimit) {
         this.name = name;
